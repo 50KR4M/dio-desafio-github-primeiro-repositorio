@@ -14,7 +14,7 @@ git config -- list: Lista as configurações padrões do Git.
 git config  - -global - -unset - -user.name ou - -user.email: limpa as configurações atuais (nome email, etc): 
 
 ##### Conectar GitHub com o Git local
-git remote add origin (alias do link) [link do repositório remoto]: linka repositório local ao remoto.
+git remote add origin (alias do link) [link do repositório remoto]: linka o repositório local ao remoto.
 git remote -v:  listar informações presentes no GitHub
 
 ## Observações
